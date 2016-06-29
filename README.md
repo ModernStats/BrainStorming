@@ -42,6 +42,7 @@ Target audience:
     + Comparing non-parametric and parametric methods
     + Regression/correlation/multiple regression/confounding
         + Categorical predictor and baseline 
+        + Implement `tidy`, `broom::augment`, and `glance` in `broom` package to get results
     + 60% Confidence Intervals vs 40% Hypothesis Testing
         + HT: the theory of hypothesis. Criminal justice. Question: what do you with a problem like alpha?
         + 
@@ -59,4 +60,13 @@ Target audience:
 * Logistic Regression
 * CLT/Mathematical computation engine (but we need to ascertain the unintended consequences of dropping it)
     + Tell them the minimum they need to know.
+    + 
+
+
+## Lingering Questions
+
+* HW frequency/collection/grading
+* Selling them on R Markdown/reproducibility
+* Feedback
+    + Minute papers
     + 
