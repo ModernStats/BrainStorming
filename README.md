@@ -18,6 +18,11 @@ Target audience:
 * Introduce statistical inference via computing/resampling/randomization. quantifying uncertaint
 
 
+## Datasets
+
+* nycflights
+* babynames
+
 
 ## Topics Needed
 
@@ -36,5 +41,8 @@ Target audience:
 ## Topics to be Dropped
 
 * Probability
+* 
+
+
 
 
