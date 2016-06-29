@@ -10,3 +10,4 @@
 ## Git Resources
 
 * [Jenny Bryan's Bookdown](http://happygitwithr.com/usage-git-cmds.html)
+* [Hadley's GitHub tutorial](http://r-pkgs.had.co.nz/git.html)
