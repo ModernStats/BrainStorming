@@ -36,11 +36,15 @@ Target audience:
     + Comparing non-parametric and parametric methods
     + Confidence intervals
     + Interpretation of results
-
+    + Regression/correlation/multiple regression
+    + 60% Confidence Intervals
 
 ## Topics to be Dropped
 
-* Probability
+* Independence/Probability
+* Chi-Square Tests
+* Logistic Regression
+* CLT (but we need to ascertain the unintended consequences of dropping it)
 * 
 
 
