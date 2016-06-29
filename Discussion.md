@@ -5,8 +5,9 @@
   + histogram: as long as we avoid density plots
   + boxplot: have to set x=1 aes. categorical variables
   + barplot: issue with categorical variables
-  + scatterplot: none
+  + scatterplot: jitter/alpha
   + linegraph:
+  + mosaicplot (write mosaicplot in ggplot)
   + Need a way to track all issues/FAQ's
 
 # Things to add to book
