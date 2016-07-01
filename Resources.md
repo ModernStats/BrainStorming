@@ -5,6 +5,7 @@
 * [Berkeley](http://data8.org/fa15/)
 * [Kaplan Data Course](http://data-computing.org/)
 * [Environmental Computing](http://environmentalcomputing.net/)
+* [Hardin's Dynamic Data](https://github.com/hardin47/DynamicData)
 
 
 ## Git Resources
