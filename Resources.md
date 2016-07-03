@@ -10,7 +10,7 @@
      + [Do's and Don't for Effective Graphs](http://stat545.com/block015_graph-dos-donts.html)
      + [Visualization Analysis and Design](http://stat545.com/cm014_viz-design-munzner.html)
      + [Creating More Effective Graphs (BOOK)](https://www.amazon.com/Creating-Effective-Graphs-Naomi-Robbins/dp/0985911123/ref=sr_1_1?ie=UTF8&qid=1467512883&sr=8-1&keywords=Naomi+Robbins)
-
+* [Foundational Viz Papers](http://fellinlovewithdata.com/guides/7-classic-foundational-vis-papers)
 
 ## Git Resources
 
