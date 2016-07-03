@@ -5,6 +5,9 @@
 * [Berkeley](http://data8.org/fa15/)
 * [Kaplan Data Course](http://data-computing.org/)
 * [Environmental Computing](http://environmentalcomputing.net/)
+
+## Material to Review
+
 * [Hardin's Dynamic Data](https://github.com/hardin47/DynamicData)
 * [STAT 545A](http://stat545.com/syllabus.html)
      + [Do's and Don't for Effective Graphs](http://stat545.com/block015_graph-dos-donts.html)
