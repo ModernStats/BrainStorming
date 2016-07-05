@@ -18,6 +18,8 @@
      + [Visualization Analysis and Design](http://stat545.com/cm014_viz-design-munzner.html)
      + [Creating More Effective Graphs (BOOK)](https://www.amazon.com/Creating-Effective-Graphs-Naomi-Robbins/dp/0985911123/ref=sr_1_1?ie=UTF8&qid=1467512883&sr=8-1&keywords=Naomi+Robbins)
 * [Foundational Viz Papers](http://fellinlovewithdata.com/guides/7-classic-foundational-vis-papers)
+* [Verzani - SimpleR package Base R vignette](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
+* [UCLA R Seminar - using `dplyr` and `ggplot2`](http://www.ats.ucla.edu/stat/r/seminars/intro.htm)
 
 ## Git Resources
 
