@@ -5,6 +5,10 @@
 * [Berkeley](http://data8.org/fa15/)
 * [Kaplan Data Course](http://data-computing.org/)
 * [Environmental Computing](http://environmentalcomputing.net/)
+* [Statistical Commons](http://community.amstat.org/communities/community-home/librarydocuments?LibraryKey=21d5bd20-6f7e-43e0-af8f-f683be07548d&LibraryFolderKey=e882ccac-c22b-4ff2-9e44-197a4cf8cce6)
+     + [Banks (Duke) - Probability and Statistical Inference](https://drive.google.com/a/reed.edu/folderview?id=0BxWNSFPtAdfxSTRneV9ERmFZTDQ&usp=sharing)
+     + [Mine (Duke) - Data Analysis and Statistical Inference](https://drive.google.com/a/reed.edu/folderview?id=0BxWNSFPtAdfxSTRneV9ERmFZTDQ&usp=sharing)
+     + [Lock Morgan (Penn State) - Biostatistics](https://drive.google.com/a/reed.edu/folderview?id=0BxWNSFPtAdfxdFNMelozUm9LUFE&usp=sharing)
 
 ## Material to Review
 
