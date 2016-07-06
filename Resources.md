@@ -20,6 +20,10 @@
 * [Foundational Viz Papers](http://fellinlovewithdata.com/guides/7-classic-foundational-vis-papers)
 * [Verzani - SimpleR package Base R vignette](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf)
 * [UCLA R Seminar - using `dplyr` and `ggplot2`](http://www.ats.ucla.edu/stat/r/seminars/intro.htm)
+* Hadley's data packages
+     + [Fuel Economy](https://github.com/hadley/fueleconomy)
+     + [NASA Weather](https://github.com/hadley/nasaweather)
+     + [USDA Nutrients](https://github.com/hadley/usdanutrients)
 
 ## Git Resources
 
