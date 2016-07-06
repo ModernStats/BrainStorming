@@ -72,3 +72,6 @@ Target audience:
 * How do we introduce them to naming conventions? Using R?
     + It would seem that we need to create an introductory "lab" to do so and reinforce it throughout the course.  
     + Does it belong in the book in an appendix?
+* How should we build the mind map on http://coggle.it for data visualization?
+    + Which things do we include?
+    + When do we add them for students to see?  After? Before? During?
