@@ -9,6 +9,7 @@
      + [Banks (Duke) - Probability and Statistical Inference](https://drive.google.com/a/reed.edu/folderview?id=0BxWNSFPtAdfxSTRneV9ERmFZTDQ&usp=sharing)
      + [Mine (Duke) - Data Analysis and Statistical Inference](https://drive.google.com/a/reed.edu/folderview?id=0BxWNSFPtAdfxSTRneV9ERmFZTDQ&usp=sharing)
      + [Lock Morgan (Penn State) - Biostatistics](https://drive.google.com/a/reed.edu/folderview?id=0BxWNSFPtAdfxdFNMelozUm9LUFE&usp=sharing)
+* [OHSU Data Viz](http://cslu.ohsu.edu/~bedricks/courses/conj_610/)
 
 ## Material to Review
 
