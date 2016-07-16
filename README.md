@@ -16,12 +16,16 @@ Target audience:
     + Variable types
     + Starting point of "data pipeline" AKA "science pipeline" 
 * Reproducibility: the greatest collaborator you'll ever have is yourself in a few years
-* Introduce statistical inference via computing/resampling/randomization. quantifying uncertaint
+* Introduce statistical inference via computing/resampling/randomization. quantifying uncertainty
+* Tie chapters together whenever possible
+    + Have examples that go from own chapter to another and build on each other
+    + Summarize everything covered with a mind map in the last chapter
+    + Build on the mind map as the chapters progress
 
 
 ## Datasets
 
-* nycflights
+* nycflights13
 * babynames
 
 
@@ -40,11 +44,12 @@ Target audience:
     + Standard error
     + Showing what happens when assumptions/conditions aren’t met
     + Comparing non-parametric and parametric methods
+        - For two sample mean, two sample proportion, regression, and multiple regression?
     + Regression/correlation/multiple regression/confounding
         + Categorical predictor and baseline 
         + Implement `tidy`, `broom::augment`, and `glance` in `broom` package to get results
     + 60% Confidence Intervals vs 40% Hypothesis Testing
-        + HT: the theory of hypothesis. Criminal justice. Question: what do you with a problem like alpha?
+        + HT: the theory of hypothesis. Criminal justice. Question: what do you do with a problem like alpha?
         + 
     + Model selection is a can of worms 
     + Interpretation of results
