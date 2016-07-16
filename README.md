@@ -4,7 +4,7 @@ Target audience:
 * Assume no prereqs
 * students taking traditional intro stats class in a small college environment 
 
-## Book title
+## Title
 
 * Maybe an acronym?  Something that includes Modern, Open, Reproducible, Intuitive, Visualization, Data Analysis?
 
