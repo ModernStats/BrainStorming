@@ -25,6 +25,7 @@
      + [Fuel Economy](https://github.com/hadley/fueleconomy)
      + [NASA Weather](https://github.com/hadley/nasaweather)
      + [USDA Nutrients](https://github.com/hadley/usdanutrients)
+* [Broman's Steps to Reproducible Research](http://kbroman.org/steps2rr/)
 
 ## Git Resources
 
