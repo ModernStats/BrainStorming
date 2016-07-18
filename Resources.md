@@ -35,4 +35,4 @@
 ## Other stuff
 
 * [Creating Passionate Users](http://headrush.typepad.com/)
-* 
+* [Small Teaching BOOK by James M. Lang](Small Teaching: Everyday Lessons from the Science of Learning https://www.amazon.com/dp/1118944496/ref=cm_sw_r_cp_api_8RcJxb15CZFEG)
