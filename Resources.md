@@ -26,6 +26,7 @@
      + [NASA Weather](https://github.com/hadley/nasaweather)
      + [USDA Nutrients](https://github.com/hadley/usdanutrients)
 * [Broman's Steps to Reproducible Research](http://kbroman.org/steps2rr/)
+* [Upshot's Polls and Margin of Error](http://www.nytimes.com/2016/07/18/upshot/confused-by-contradictory-polls-take-a-step-back.html)
 
 ## Git Resources
 
