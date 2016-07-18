@@ -4,6 +4,10 @@ Target audience:
 * Assume no prereqs
 * students taking traditional intro stats class in a small college environment 
 
+Big questions
+* If we are only focusing on a couple data sets throughout, we should have big questions that we are addressing and
+  update at the end of each chapter where we are in the process.
+
 ## Title
 
 * Maybe an acronym?  Something that includes Modern, Open, Reproducible, Intuitive, Visualization, Data Analysis?
