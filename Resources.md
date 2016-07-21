@@ -37,3 +37,4 @@
 
 * [Creating Passionate Users](http://headrush.typepad.com/)
 * [Small Teaching BOOK by James M. Lang](https://www.amazon.com/dp/1118944496/ref=cm_sw_r_cp_api_8RcJxb15CZFEG)
+* [Efficient R Programming BOOKDOWN](https://bookdown.org/csgillespie/efficientR/)
