@@ -81,6 +81,7 @@ Big questions
 ## Lingering Questions
 
 * HW frequency/collection/grading
+* Need a way to track all issues/FAQ's.  Maybe a Google Form for issues and a Google Doc for responses to issues?
 * Selling them on R Markdown/reproducibility
 * Feedback
     + Minute papers
