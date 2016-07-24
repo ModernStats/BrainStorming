@@ -91,3 +91,5 @@ Big questions
 * How should we build the mind map on http://coggle.it for data visualization?
     + Which things do we include?
     + When do we add them for students to see?  After? Before? During?
+* Adding in review exercises and learning checks throughout the book seems to be a good idea. 
+   How frequently do we have them?
