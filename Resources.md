@@ -10,6 +10,7 @@
      + [Mine (Duke) - Data Analysis and Statistical Inference](https://drive.google.com/a/reed.edu/folderview?id=0BxWNSFPtAdfxSTRneV9ERmFZTDQ&usp=sharing)
      + [Lock Morgan (Penn State) - Biostatistics](https://drive.google.com/a/reed.edu/folderview?id=0BxWNSFPtAdfxdFNMelozUm9LUFE&usp=sharing)
 * [OHSU Data Viz](http://cslu.ohsu.edu/~bedricks/courses/conj_610/)
+* [Mike Freeman's UWashington INFO498F: Technical Foundations of Informatics](http://faculty.washington.edu/mikefree/info498f/)
 
 ## Material to Review
 
