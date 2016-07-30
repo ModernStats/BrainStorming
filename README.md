@@ -27,6 +27,7 @@ Big questions
     + Starting point of "data pipeline" AKA "science pipeline" 
 * Reproducibility: the greatest collaborator you'll ever have is yourself in a few years
 * Introduce statistical inference via computing/resampling/randomization. quantifying uncertainty
+    + Anecdotal evidence (e.g. via stories politicians give) vs statistical evidence
 * Tie chapters together whenever possible
     + Have examples that go from own chapter to another and build on each other
     + Summarize everything covered with a mind map in the last chapter
