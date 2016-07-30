@@ -38,6 +38,7 @@ Big questions
 
 * nycflights13
 * babynames
+* [ggplot2movies](https://cran.r-project.org/web/packages/ggplot2movies/ggplot2movies.pdf)
 * [FiveThirtyEight GitHub repo](https://github.com/fivethirtyeight/data)
 
 ## Topics Needed
