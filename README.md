@@ -96,3 +96,5 @@ Big questions
     + When do we add them for students to see?  After? Before? During?
 * Adding in review exercises and learning checks throughout the book seems to be a good idea. 
    How frequently do we have them?
+* Add in videos from the CauseWeb [webinar](https://www.causeweb.org/cause/webinar/teaching/2016-07)?
+    + How relevent are they to what we want to do?
