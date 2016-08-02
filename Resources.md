@@ -29,6 +29,7 @@
      + [USDA Nutrients](https://github.com/hadley/usdanutrients)
 * [Broman's Steps to Reproducible Research](http://kbroman.org/steps2rr/)
 * [Upshot's Polls and Margin of Error](http://www.nytimes.com/2016/07/18/upshot/confused-by-contradictory-polls-take-a-step-back.html)
+* [Setting the Stage for Data Science: Integration of Data Management Skills in Introductory and Second Courses in Statistics](http://chance.amstat.org/2015/04/setting-the-stage/)
 
 ## Git Resources
 
