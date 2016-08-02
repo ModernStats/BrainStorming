@@ -19,7 +19,7 @@ Big questions
     + Refer to it frequently throughout the book
 * Data/science pipeline.
 * Visualizations first whenever possible, then definitions/theorems.
-* Multivariate thinking.
+* Multivariate, computational and inferential thinking (Berkeley).
 * Minimizing prerequisites to research
 * Tidy data as a representation of:
     + Multivariate relationships
