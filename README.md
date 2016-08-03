@@ -98,3 +98,4 @@ Big questions
 * Add in videos from the CauseWeb [webinar](https://www.causeweb.org/cause/webinar/teaching/2016-07)?
     + How relevant are they to what we want to do?
 * Include some form of peer review of student work
+* To show importance of reproducible research, make a subtle change to the original data file and then have them redo all of their analysis
