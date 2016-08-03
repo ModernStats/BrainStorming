@@ -36,8 +36,11 @@ Big questions
 
 ## Datasets
 
+<https://blog.rstudio.org/2014/07/23/new-data-packages/>
+
 * nycflights13
 * babynames
+* nasaweather
 * [ggplot2movies](https://cran.r-project.org/web/packages/ggplot2movies/ggplot2movies.pdf)
 * [FiveThirtyEight GitHub repo](https://github.com/fivethirtyeight/data)
 
