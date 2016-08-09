@@ -12,6 +12,7 @@
 * [OHSU Data Viz](http://cslu.ohsu.edu/~bedricks/courses/conj_610/)
 * [Mike Freeman's UWashington INFO498F: Technical Foundations of Informatics](http://faculty.washington.edu/mikefree/info498f/)
 * [Derek Sonderegger's Intro to R @NAU](https://www.github.com/dereksonderegger/STA_570L_Book/raw/master/Introduction_to_R.pdf)
+* [David Robinson's R course](http://varianceexplained.org/RData/)
 
 ## Material to Review
 
