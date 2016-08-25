@@ -2,7 +2,7 @@
 
 * [Duke](https://www2.stat.duke.edu/courses/Fall15/sta112.01/)
 * [Hadley R for Data Science](http://r4ds.had.co.nz/)
-* [Berkeley](http://data8.org/fa15/)
+* [Berkeley - Foundations of Data Science](http://data8.org/fa15/)
 * [Kaplan Data Course](http://data-computing.org/)
 * [Environmental Computing](http://environmentalcomputing.net/)
 * [Statistical Commons](http://community.amstat.org/communities/community-home/librarydocuments?LibraryKey=21d5bd20-6f7e-43e0-af8f-f683be07548d&LibraryFolderKey=e882ccac-c22b-4ff2-9e44-197a4cf8cce6)
